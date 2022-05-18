@@ -1,0 +1,90 @@
+{
+    "name": "BIG Block Car Club #4",
+    "description": "8000 heavily specced V12s are burning the non-existent fumes in the metaverse. We love them and we think you will too, because these arent just run-of-the-mill JPEGs that look cool, that they do of course, but these NFTs act as tickets into our Real-World-Lottery. Your ticket could earn you the chance to win the actual car in the NFT - and thats what Big Block Car Club is about. A series of high quality automotive marvels designed from scratch by hand. Each attribute of the car has been designed in collaboration with the best automotive design brands in existence. Each Material that goes into making the spec of car is conceptualized by a group of supercar owners and its our love for cars that we want to share with the world - and for one lucky winner from every collection we launch - the actual car",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "08e638bc2db0f334bc9fe8cbd60113e8f3e026c3",
+    "edition": 4,
+    "date": 1648565995917,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enter The Forest "
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Orange Emozione "
+      },
+      {
+        "trait_type": "Wing",
+        "value": "None "
+      },
+      {
+        "trait_type": "Wheels",
+        "value": "Stock "
+      },
+      {
+        "trait_type": "Tire Sidewalls",
+        "value": "Plain Sidewalls "
+      },
+      {
+        "trait_type": "Hood",
+        "value": "Carbon Fiber Hood "
+      },
+      {
+        "trait_type": "Hood Decal",
+        "value": "None "
+      },
+      {
+        "trait_type": "Front Bumper",
+        "value": "Stock "
+      },
+      {
+        "trait_type": "Front Fender",
+        "value": "Stock Front Fender "
+      },
+      {
+        "trait_type": "Headlight Cover",
+        "value": "Carbon Fiber "
+      },
+      {
+        "trait_type": "Side Skirts",
+        "value": "Carbon Fiber Skirts "
+      },
+      {
+        "trait_type": "Side Decal",
+        "value": "None "
+      },
+      {
+        "trait_type": "Side Intake Flaps",
+        "value": "Phantom Black Intake "
+      },
+      {
+        "trait_type": "Side Mirrors",
+        "value": "Stock "
+      },
+      {
+        "trait_type": "Roof",
+        "value": "Phantom Black "
+      },
+      {
+        "trait_type": "Roof Decal",
+        "value": "None "
+      },
+      {
+        "trait_type": "Flame",
+        "value": "Blue Spitfire Flame "
+      },
+      {
+        "trait_type": "Special Mods",
+        "value": "None "
+      },
+      {
+        "trait_type": "Special Tron Mod",
+        "value": "None "
+      },
+      {
+        "trait_type": "Surprise Element",
+        "value": "Yes "
+      }
+    ]
+  }

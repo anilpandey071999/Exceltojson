@@ -1,0 +1,500 @@
+{
+    "Background": [
+        {
+            "trait": "City Roads ",
+            "weight": "15",
+            "occurrence": "1235 in 8000 editions (15.44 %)"
+        },
+        {
+            "trait": "Countryside ",
+            "weight": "15",
+            "occurrence": "1188 in 8000 editions (14.85 %)"
+        },
+        {
+            "trait": "Desert Sand ",
+            "weight": "20",
+            "occurrence": "1637 in 8000 editions (20.46 %)"
+        },
+        {
+            "trait": "Enter The Forest ",
+            "weight": "5",
+            "occurrence": "408 in 8000 editions (5.10 %)"
+        },
+        {
+            "trait": "Garage ",
+            "weight": "10",
+            "occurrence": "726 in 8000 editions (9.07 %)"
+        },
+        {
+            "trait": "Helipad ",
+            "weight": "7",
+            "occurrence": "559 in 8000 editions (6.99 %)"
+        },
+        {
+            "trait": "Parking Lot ",
+            "weight": "15",
+            "occurrence": "1243 in 8000 editions (15.54 %)"
+        },
+        {
+            "trait": "Parliament Donut Strip ",
+            "weight": "13",
+            "occurrence": "1004 in 8000 editions (12.55 %)"
+        }
+    ],
+    "Colour": [
+        {
+            "trait": "Chameleon Blue Density ",
+            "weight": "3",
+            "occurrence": "257 in 8000 editions (3.21 %)"
+        },
+        {
+            "trait": "Deep Purple ",
+            "weight": "7",
+            "occurrence": "534 in 8000 editions (6.68 %)"
+        },
+        {
+            "trait": "Lime Green ",
+            "weight": "7",
+            "occurrence": "560 in 8000 editions (7.00 %)"
+        },
+        {
+            "trait": "Liquid Yellow ",
+            "weight": "15",
+            "occurrence": "1247 in 8000 editions (15.59 %)"
+        },
+        {
+            "trait": "Miami Tron Blue ",
+            "weight": "10",
+            "occurrence": "780 in 8000 editions (9.75 %)"
+        },
+        {
+            "trait": "Mint Green ",
+            "weight": "13",
+            "occurrence": "1041 in 8000 editions (13.01 %)"
+        },
+        {
+            "trait": "Orange Emozione ",
+            "weight": "10",
+            "occurrence": "785 in 8000 editions (9.81 %)"
+        },
+        {
+            "trait": "Phantom Black ",
+            "weight": "5",
+            "occurrence": "382 in 8000 editions (4.78 %)"
+        },
+        {
+            "trait": "Psychedelic Gold ",
+            "weight": "2",
+            "occurrence": "152 in 8000 editions (1.90 %)"
+        },
+        {
+            "trait": "Scarlet Red ",
+            "weight": "20",
+            "occurrence": "1621 in 8000 editions (20.26 %)"
+        },
+        {
+            "trait": "War Machine green ",
+            "weight": "8",
+            "occurrence": "641 in 8000 editions (8.01 %)"
+        }
+    ],
+    "Wing": [
+        {
+            "trait": "GT Slipstream ",
+            "weight": "5",
+            "occurrence": "374 in 8000 editions (4.67 %)"
+        },
+        {
+            "trait": "GT Wing ",
+            "weight": "18",
+            "occurrence": "1433 in 8000 editions (17.91 %)"
+        },
+        {
+            "trait": "Lip Wing ",
+            "weight": "12",
+            "occurrence": "972 in 8000 editions (12.15 %)"
+        },
+        {
+            "trait": "MV Wing ",
+            "weight": "28",
+            "occurrence": "2198 in 8000 editions (27.47 %)"
+        },
+        {
+            "trait": "None ",
+            "weight": "37",
+            "occurrence": "3023 in 8000 editions (37.79 %)"
+        }
+    ],
+    "Wheels": [
+        {
+            "trait": "10 Spoke Rims ",
+            "weight": "36",
+            "occurrence": "2880 in 8000 editions (36.00 %)"
+        },
+        {
+            "trait": "5 Spoke Forged ",
+            "weight": "18",
+            "occurrence": "1421 in 8000 editions (17.76 %)"
+        },
+        {
+            "trait": "BBCC Bling Gold GT Rims ",
+            "weight": "2",
+            "occurrence": "176 in 8000 editions (2.20 %)"
+        },
+        {
+            "trait": "Stock ",
+            "weight": "44",
+            "occurrence": "3523 in 8000 editions (44.04 %)"
+        }
+    ],
+    "Tire Sidewalls": [
+        {
+            "trait": "Plain Sidewalls ",
+            "weight": "60",
+            "occurrence": "4849 in 8000 editions (60.61 %)"
+        },
+        {
+            "trait": "Printed Sidewalls ",
+            "weight": "28",
+            "occurrence": "2252 in 8000 editions (28.15 %)"
+        },
+        {
+            "trait": "Vintage Special Stripe ",
+            "weight": "12",
+            "occurrence": "899 in 8000 editions (11.24 %)"
+        }
+    ],
+    "Hood": [
+        {
+            "trait": "Carbon Fiber Hood ",
+            "weight": "33",
+            "occurrence": "2657 in 8000 editions (33.21 %)"
+        },
+        {
+            "trait": "Forged Carbon Hood ",
+            "weight": "22",
+            "occurrence": "1775 in 8000 editions (22.19 %)"
+        },
+        {
+            "trait": "Stock Hood ",
+            "weight": "45",
+            "occurrence": "3568 in 8000 editions (44.60 %)"
+        }
+    ],
+    "Hood Decal": [
+        {
+            "trait": "Dual Saber ",
+            "weight": "6",
+            "occurrence": "444 in 8000 editions (5.55 %)"
+        },
+        {
+            "trait": "Fuck Me Im Rich ",
+            "weight": "1",
+            "occurrence": "85 in 8000 editions (1.06 %)"
+        },
+        {
+            "trait": "None ",
+            "weight": "84",
+            "occurrence": "6710 in 8000 editions (83.88 %)"
+        },
+        {
+            "trait": "Special Tribe Block Club ",
+            "weight": "9",
+            "occurrence": "761 in 8000 editions (9.51 %)"
+        }
+    ],
+    "Front Bumper": [
+        {
+            "trait": "BBCC Carbon Lip ",
+            "weight": "8",
+            "occurrence": "665 in 8000 editions (8.31 %)"
+        },
+        {
+            "trait": "Downforce Carbon Fiber Lip ",
+            "weight": "22",
+            "occurrence": "1816 in 8000 editions (22.70 %)"
+        },
+        {
+            "trait": "Forged Carbon Lip ",
+            "weight": "10",
+            "occurrence": "795 in 8000 editions (9.94 %)"
+        },
+        {
+            "trait": "Phantom Black Shark Fin ",
+            "weight": "28",
+            "occurrence": "2271 in 8000 editions (28.39 %)"
+        },
+        {
+            "trait": "Stock ",
+            "weight": "32",
+            "occurrence": "2453 in 8000 editions (30.66 %)"
+        }
+    ],
+    "Front Fender": [
+        {
+            "trait": "Carbon Fiber Front Fender ",
+            "weight": "32",
+            "occurrence": "2627 in 8000 editions (32.84 %)"
+        },
+        {
+            "trait": "Forged Carbon Front Fender ",
+            "weight": "23",
+            "occurrence": "1845 in 8000 editions (23.06 %)"
+        },
+        {
+            "trait": "Stock Front Fender ",
+            "weight": "45",
+            "occurrence": "3528 in 8000 editions (44.10 %)"
+        }
+    ],
+    "Headlight Cover": [
+        {
+            "trait": "Carbon Fiber ",
+            "weight": "28",
+            "occurrence": "2234 in 8000 editions (27.93 %)"
+        },
+        {
+            "trait": "Forged Carbon ",
+            "weight": "19",
+            "occurrence": "1462 in 8000 editions (18.27 %)"
+        },
+        {
+            "trait": "Stock ",
+            "weight": "53",
+            "occurrence": "4304 in 8000 editions (53.80 %)"
+        }
+    ],
+    "Side Skirts": [
+        {
+            "trait": "Carbon Fiber Skirts ",
+            "weight": "28",
+            "occurrence": "2181 in 8000 editions (27.26 %)"
+        },
+        {
+            "trait": "Forged Carbon Skirts ",
+            "weight": "12",
+            "occurrence": "920 in 8000 editions (11.50 %)"
+        },
+        {
+            "trait": "GT PHantom BLack Skirts ",
+            "weight": "30",
+            "occurrence": "2371 in 8000 editions (29.64 %)"
+        },
+        {
+            "trait": "None ",
+            "weight": "32",
+            "occurrence": "2528 in 8000 editions (31.60 %)"
+        }
+    ],
+    "Side Decal": [
+        {
+            "trait": "BBCC Special Decal ",
+            "weight": "1",
+            "occurrence": "0 in 8000 editions (0.00 %)"
+        },
+        {
+            "trait": "Body Pinstripe Masking ",
+            "weight": "3",
+            "occurrence": "235 in 8000 editions (2.94 %)"
+        },
+        {
+            "trait": "Falcon Wings ",
+            "weight": "10",
+            "occurrence": "767 in 8000 editions (9.59 %)"
+        },
+        {
+            "trait": "Lightracks ",
+            "weight": "22",
+            "occurrence": "1719 in 8000 editions (21.49 %)"
+        },
+        {
+            "trait": "None ",
+            "weight": "20",
+            "occurrence": "1618 in 8000 editions (20.23 %)"
+        },
+        {
+            "trait": "Phantoms Hook ",
+            "weight": "12",
+            "occurrence": "957 in 8000 editions (11.96 %)"
+        },
+        {
+            "trait": "Red Flamborghini ",
+            "weight": "2",
+            "occurrence": "157 in 8000 editions (1.96 %)"
+        },
+        {
+            "trait": "Trifecta Phantom Black ",
+            "weight": "13",
+            "occurrence": "1030 in 8000 editions (12.88 %)"
+        },
+        {
+            "trait": "Winding Curves ",
+            "weight": "18",
+            "occurrence": "1432 in 8000 editions (17.90 %)"
+        }
+    ],
+    "Side Intake Flaps": [
+        {
+            "trait": "Carbon Fiber ",
+            "weight": "28",
+            "occurrence": "2257 in 8000 editions (28.21 %)"
+        },
+        {
+            "trait": "Forged Carbon Fiber ",
+            "weight": "12",
+            "occurrence": "942 in 8000 editions (11.77 %)"
+        },
+        {
+            "trait": "Phantom Black Intake ",
+            "weight": "25",
+            "occurrence": "2030 in 8000 editions (25.37 %)"
+        },
+        {
+            "trait": "Stock ",
+            "weight": "35",
+            "occurrence": "2771 in 8000 editions (34.64 %)"
+        }
+    ],
+    "Side Mirrors": [
+        {
+            "trait": "Carbon Fiber ",
+            "weight": "35",
+            "occurrence": "2770 in 8000 editions (34.63 %)"
+        },
+        {
+            "trait": "Forged Carbon Fiber ",
+            "weight": "25",
+            "occurrence": "2021 in 8000 editions (25.26 %)"
+        },
+        {
+            "trait": "Stock ",
+            "weight": "40",
+            "occurrence": "3209 in 8000 editions (40.11 %)"
+        }
+    ],
+    "Roof": [
+        {
+            "trait": "Carbon Fiber ",
+            "weight": "12",
+            "occurrence": "991 in 8000 editions (12.39 %)"
+        },
+        {
+            "trait": "Forged Carbon ",
+            "weight": "5",
+            "occurrence": "423 in 8000 editions (5.29 %)"
+        },
+        {
+            "trait": "Phantom Black ",
+            "weight": "38",
+            "occurrence": "3050 in 8000 editions (38.13 %)"
+        },
+        {
+            "trait": "Stock ",
+            "weight": "45",
+            "occurrence": "3536 in 8000 editions (44.20 %)"
+        }
+    ],
+    "Roof Decal": [
+        {
+            "trait": "None ",
+            "weight": "90",
+            "occurrence": "7155 in 8000 editions (89.44 %)"
+        },
+        {
+            "trait": "Scratchy Roof Bad Boy ",
+            "weight": "3",
+            "occurrence": "271 in 8000 editions (3.39 %)"
+        },
+        {
+            "trait": "Special Stripe ",
+            "weight": "5",
+            "occurrence": "411 in 8000 editions (5.14 %)"
+        },
+        {
+            "trait": "Special Web Spider Club ",
+            "weight": "2",
+            "occurrence": "163 in 8000 editions (2.04 %)"
+        }
+    ],
+    "Flame": [
+        {
+            "trait": "Blue Spitfire Flame ",
+            "weight": "33",
+            "occurrence": "2656 in 8000 editions (33.20 %)"
+        },
+        {
+            "trait": "None ",
+            "weight": "67",
+            "occurrence": "5344 in 8000 editions (66.80 %)"
+        }
+    ],
+    "Special Mods": [
+        {
+            "trait": "Downforce Side Skirt ",
+            "weight": "3",
+            "occurrence": "263 in 8000 editions (3.29 %)"
+        },
+        {
+            "trait": "Dual Vented Phantom Black ",
+            "weight": "14",
+            "occurrence": "1136 in 8000 editions (14.20 %)"
+        },
+        {
+            "trait": "GT Downforce Front lip ",
+            "weight": "7",
+            "occurrence": "514 in 8000 editions (6.42 %)"
+        },
+        {
+            "trait": "Lowrider Front Lip ",
+            "weight": "12",
+            "occurrence": "977 in 8000 editions (12.21 %)"
+        },
+        {
+            "trait": "None ",
+            "weight": "28",
+            "occurrence": "2200 in 8000 editions (27.50 %)"
+        },
+        {
+            "trait": "Po Po Siren ",
+            "weight": "22",
+            "occurrence": "1779 in 8000 editions (22.24 %)"
+        },
+        {
+            "trait": "Single Hood ",
+            "weight": "14",
+            "occurrence": "1131 in 8000 editions (14.14 %)"
+        }
+    ],
+    "Special Tron Mod": [
+        {
+            "trait": "GT Green Tron ",
+            "weight": "5",
+            "occurrence": "416 in 8000 editions (5.20 %)"
+        },
+        {
+            "trait": "GT Neon Blue Tron ",
+            "weight": "2",
+            "occurrence": "155 in 8000 editions (1.94 %)"
+        },
+        {
+            "trait": "None ",
+            "weight": "75",
+            "occurrence": "5913 in 8000 editions (73.91 %)"
+        },
+        {
+            "trait": "Sharkfin Red Tron ",
+            "weight": "8",
+            "occurrence": "707 in 8000 editions (8.84 %)"
+        },
+        {
+            "trait": "Sharkfin Yellow Tron ",
+            "weight": "10",
+            "occurrence": "809 in 8000 editions (10.11 %)"
+        }
+    ],
+    "Surprise Element": {
+        "trait": "Yes ",
+        "weight": "100",
+        "occurrence": "8000 in 8000 editions (100.00 %)"
+    }
+}
