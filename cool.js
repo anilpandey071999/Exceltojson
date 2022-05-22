@@ -13,7 +13,7 @@ const letDoIT = () => {
         console.log("Error Found:", err);
       }
     });
-  //   fs.unlink(`${i}.json`, (err) => {
+  //   fs.unlink(`img/${i}.gif`, (err) => {
   //     if (err) {
   //         throw err;
   //     }
