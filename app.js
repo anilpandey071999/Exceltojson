@@ -19,10 +19,11 @@ const a = async () => {
       let j = 0;
       // while (j < 5) {
       for (let i = 1; i < keys.length; i++) {
-        console.log(keys[i],i);
+        // console.log(keys[i],i);
         if (i == 8) {
           obj[keys[i]] = JSON.parse(values[i]);
         } else if (i == 1) {
+          console.log(values[i + 1]);
           obj[keys[i]] = `${values[i]}${values[i + 1]}`;
         } else if (i == 2 || i == 5 || i == 6 || i == 4 || i == 7) {
         } else if (i == 4) {
@@ -31,6 +32,7 @@ const a = async () => {
           obj[keys[i]] = values[i];
         }
       }
+      // console.log(obj);
       jsonData.push(obj);
       // j++;
       // }
@@ -41,7 +43,8 @@ const a = async () => {
   jsonData.map((row, index) => {
     row.edition = index + 1;
     row.image = `ipfs://NewUriToReplace/${index + 1}.png`;
-    fs.writeFile(`${index + 1}.json`, JSON.stringify(row), function (err) {
+    // console.log()
+    fs.writeFile(`${index + 1}.json`, String(JSON.stringify(row).replace("{","{\n    ").replace("}","\n}").replace(/,/g,",\n    ")), function (err) {
       if (err) throw err;
       console.log("File is created successfully.");
     });
