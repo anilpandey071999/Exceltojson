@@ -8,18 +8,18 @@ const letDoIT = () => {
   // Copying the file to a the same name
   for(let i = 1;i<1001;i++){
     // 2xa ka name change ka daa na hai kya
-    // fs.copyFile("2xa.gif", `img/${i}.gif`, (err) => {
-    //   if (err) {
-    //     console.log("Error Found:", err);
-    //   }
-    // });
-    fs.unlink(`${i}.json`, (err) => {
+    fs.copyFile("2xa.gif", `img/${i}.gif`, (err) => {
       if (err) {
-          throw err;
+        console.log("Error Found:", err);
       }
+    });
+  //   fs.unlink(`${i}.json`, (err) => {
+  //     if (err) {
+  //         throw err;
+  //     }
   
-      console.log("File is deleted.");
-  });
+  //     console.log("File is deleted.");
+  // });
   
   }
   console.log("Job done");
